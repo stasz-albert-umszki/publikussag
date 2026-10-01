@@ -4,7 +4,7 @@
 ## Ez az átfogó összefoglaló a magyar katonai repülés több mint egy évszázados, küzdelmekkel és technológiai mérföldkövekkel kikövezett fejlődését mutatja be. A projekt egy többoldalas, tematikus weboldal felépítését követi, amely fókuszált témakörökre bontva dolgozza fel hazánk légterének védelmét a kezdetektől napjainkig.
 
 
-## A gyűjtemény célja nem csupán a puszta történelmi adatok és évszámok felsorolása, hanem egy interaktív, vizuálisan és tartalmilag is gazdag utazás biztosítása. A projekt az alábbi főbb pilléreken nyugszik:
+### A gyűjtemény célja nem csupán a puszta történelmi adatok és évszámok felsorolása, hanem egy interaktív, vizuálisan és tartalmilag is gazdag utazás biztosítása. A projekt az alábbi főbb pilléreken nyugszik:
 
 ### A hősi kezdetek és a rejtett légierő:
  Végigkísérjük a magyar repülés úttörőit az Osztrák–Magyar Monarchia első világháborús kötelékeitől kezdve. Bemutatjuk, hogyan élte túl a katonai repülés a trianoni békediktátum szigorú tiltásait a repülőklubok és a vitorlázórepülés álcája mögött, megalapozva a későbbi újjászületést.
