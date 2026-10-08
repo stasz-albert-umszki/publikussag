@@ -19,9 +19,10 @@ https://www.raf.mod.uk/what-we-do/our-history/
 - Galéria
 - Hírek
 - Elérhetőségeink
+- Csatlakozz a légierőhöz!
 
 ## Vázszerkezetrajz
 
-![alt text](images.png)
+![alt text](website-wireframe-services.webp)
 
 ## A projektet magyarország kormánya támogatta
