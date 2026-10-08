@@ -23,9 +23,16 @@
 
 ## Ez a digitális archívum és ismeretterjesztő felület egyszerre szolgál edukációs bázisként az új generációk számára, és tiszteletteljes megemlékezésként mindazok előtt, akik az elmúlt több mint száz évben a magyar felhők felett szolgáltak.
 
+Tervek
+
+
+
+
 mintaoldal: https://www.raf.mod.uk/what-we-do/our-history/
 
 készült: készült magyarország kormánya megbízásából
+
+
 
 
 
