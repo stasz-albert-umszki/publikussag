@@ -1,0 +1,15 @@
+.teto{
+    background-image: url(../pngkepek/fooldalteto5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+
+.teto_szoveg{
+text-align: center;
+
+color: white;
+background-color: grey;
+
+}
