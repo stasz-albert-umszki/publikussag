@@ -10,7 +10,6 @@ body {
     background-position: center;
     display: flex;
     height: 600px;
-    
 }
 
 .ter_koztes {
@@ -34,8 +33,43 @@ body {
     font-size: 100px;
 }
 
-.feljebb{
-padding: 30px;
+.feljebb {
+    padding-top: 30px;
+}
 
+.kapcsolatok {
+    border: 3px inset rgba(140, 157, 255, 0.857);
+    border-radius: 2%;
+}
 
+#kap_fel {
+    padding-top: 10px;
+}
+
+#kap_jobb {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 10px;
+    margin-top: 40px;
+    cursor: pointer;
+    float: right;
+}
+
+#kap_jobb:hover {
+
+    background-color: darkblue;
+    transform: scale(1.05);
+
+}
+
+#kap_jobb_lejjebb{
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.stilo {
+    font-family: Impact, sans-serif;
 }
