@@ -1,0 +1,1 @@
+táblázat a jármővekkel pl helikopter repülő vadászgép stb

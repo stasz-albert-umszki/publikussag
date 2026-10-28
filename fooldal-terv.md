@@ -9,7 +9,6 @@ slideshow
 csatlakozz a légierőhöz
 
 
-
 ketté bontva: elérhetőségek, support --- feliratkozás hírlevélre
 
 

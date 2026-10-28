@@ -10,7 +10,7 @@ body {
     background-position: center;
     display: flex;
     height: 600px;
-    padding: 1%;
+    
 }
 
 .ter_koztes {
@@ -32,4 +32,10 @@ body {
 .teto_szoveg {
     color: white;
     font-size: 100px;
+}
+
+.feljebb{
+padding: 30px;
+
+
 }
