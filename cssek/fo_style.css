@@ -39,6 +39,7 @@ body {
 
 .kapcsolatok {
     border: 3px inset rgba(140, 157, 255, 0.857);
+    background-color: rgba(101, 180, 255, 0.521);
     border-radius: 2%;
 }
 
@@ -64,7 +65,7 @@ body {
 
 }
 
-#kap_jobb_lejjebb{
+#kap_jobb_lejjebb {
     margin-bottom: 30px;
     margin-left: 10px;
     margin-top: 10px;
@@ -72,4 +73,19 @@ body {
 
 .stilo {
     font-family: Impact, sans-serif;
+}
+
+.lablec {
+    background-color: rgb(100, 100, 100);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1% 5%;
+    margin-top: 2%;
+}
+
+.szin_pad{
+    color: white;
+    padding: 5px;
 }
