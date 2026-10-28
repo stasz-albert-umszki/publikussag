@@ -1,15 +1,35 @@
-.teto{
-    background-image: url(../pngkepek/fooldalteto5.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 400px;
-    width: 100%;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 
-.teto_szoveg{
-text-align: center;
+.teto {
+    background-image: url(../pngkepek/fooldalteto6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    height: 600px;
+    padding: 1%;
+}
 
-color: white;
-background-color: grey;
+.ter_koztes {
+    margin: auto;
+    padding-top: 2%;
+    display: flex;
+    max-width: 750px;
+}
 
+.teto_ter {
+    background-color: rgba(40, 40, 40, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+    font-family: Impact, sans-serif;
+}
+
+.teto_szoveg {
+    color: white;
+    font-size: 100px;
 }
