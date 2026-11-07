@@ -116,6 +116,14 @@ p{
     font-size: larger;
 }
 
+.story-fo{
+    padding-bottom: 50px;
+}
+
+.story-felett{
+    padding-bottom: 10px;
+}
+
 .stilo-feljebb{
     font-family: Impact, sans-serif;
     margin-top: 2%;
