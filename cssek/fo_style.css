@@ -50,6 +50,7 @@ body {
 #kap_jobb {
     background-color: blue;
     color: white;
+    text-decoration: none;
     border-radius: 5px;
     padding: 10px 20px;
     margin: 10px;
@@ -59,10 +60,8 @@ body {
 }
 
 #kap_jobb:hover {
-
     background-color: darkblue;
     transform: scale(1.05);
-
 }
 
 #kap_jobb_lejjebb {
@@ -85,7 +84,7 @@ body {
     margin-top: 2%;
 }
 
-.szin_pad{
+.szin_pad {
     color: white;
     padding: 5px;
 }
@@ -96,45 +95,49 @@ body {
     object-fit: cover;
 }
 
-.tartalomjegyzek{
-   
-   
-    
+.tartalomjegyzek {
+
+
+
     margin-right: 1%;
 }
 
-.feher{
+.feher {
     text-decoration: none;
     color: grey;
 }
 
-p{
+p {
     text-align: justify;
 }
 
-.story{
+.story {
     font-size: larger;
 }
 
-.story-fo{
+.story-fo {
     padding-bottom: 50px;
 }
 
-.story-felett{
+.story-felett {
     padding-bottom: 10px;
 }
 
-.stilo-feljebb{
+.stilo-feljebb {
     font-family: Impact, sans-serif;
     margin-top: 2%;
     font-size: 50px;
-    margin-bottom: 3%;
     padding-right: 5%;
     padding-left: 5%;
 }
 
-.bevezetes{
-    padding-bottom: 2%;
+.bevezetes {
+    padding-bottom: 1%;
+    padding-top: 2%;
+    margin-bottom: 2%;
+    padding-right: 5%;
     padding-left: 5%;
+    margin-left: 4%;
+    font-size: 20px;
+    background-color: lightgrey;
 }
-
