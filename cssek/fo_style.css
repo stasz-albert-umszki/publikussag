@@ -170,37 +170,107 @@ p {
 }
 
 .keret {
-background-color: gray;
-color: white;
-border: solid white 4px;
+    background-color: gray;
+    color: white;
+    border: solid white 4px;
+    border-radius: 15px;
 }
 
-.jarmu_kozep_p{
+.jarmu_kozep_p {
     padding-left: 10%;
-    min-width:  200px;
+    min-width: 200px;
     margin-top: 4%;
     font-size: 20px;
     background-color: rgb(90, 90, 90);
 }
 
-.jarmu_kozep_p_also{
-font-size: 70px;
-padding-left: 50%;
-background-color: rgb(90, 90, 90);
+.jarmu_kozep_p_also {
+    font-size: 70px;
+    padding-left: 50%;
+    background-color: rgb(90, 90, 90);
 }
 
-.jarmu_also_bal{
+.jarmu_also_bal {}
 
-}
-
-.jarmu_also_bal_elso{
-    background-color: aqua;
+.jarmu_also_bal_elso {
+    background-color: lightgray;
     margin-bottom: 3%;
     border-radius: 8px;
-    height: 200px;
+    height: 300px;
+    margin: 15px;
+    margin-top: 30px;
 }
 
-.jarmu_also_bal_masodik{
-    background-color: aqua;
+.jarmu_also_bal_elso_fent {
+    height: 50px;
+    font-family: Impact, sans-serif;
+    background-color: darkgray;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    padding-left: 8%;
     border-radius: 8px;
+}
+
+.jarmu_also_bal_elso_lent {}
+
+.jarmu_also_bal_masodik {
+    background-color: lightgray;
+    margin-bottom: 3%;
+    border-radius: 8px;
+    height: 300px;
+    margin: 15px;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.jarmu_also_jobb{
+
+}
+
+.jarmu_also_jobb_elso{  
+    background-color: lightgray;
+    margin-bottom: 3%;
+    border-radius: 8px;
+    height: 300px;
+    margin: 15px;
+    margin-top: 30px;
+}
+
+.jarmu_also_jobb_elso_fent{
+height: 50px;
+    font-family: Impact, sans-serif;
+    background-color: darkgray;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    padding-left: 8%;
+    border-radius: 8px;
+}
+
+.jarmu_also_jobb_elso_lent{
+
+}
+
+.jarmu_also_jobb_masodik{
+    background-color: lightgray;
+    margin-bottom: 3%;
+    border-radius: 8px;
+    height: 300px;
+    margin: 15px;
+    margin-top: 30px;
+}
+
+.jarmu_tablazat{
+    margin-top: 100px;
 }
