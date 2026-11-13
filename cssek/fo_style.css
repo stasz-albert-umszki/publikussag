@@ -197,7 +197,7 @@ p {
     background-color: lightgray;
     margin-bottom: 3%;
     border-radius: 8px;
-    height: 300px;
+    height: 245px;
     margin: 15px;
     margin-top: 30px;
 }
@@ -217,7 +217,7 @@ p {
     background-color: lightgray;
     margin-bottom: 3%;
     border-radius: 8px;
-    height: 300px;
+    height: 385px;
     margin: 15px;
     margin-top: 30px;
 }
@@ -251,7 +251,44 @@ p {
     height: 300px;
     margin: 15px;
     margin-top: 30px;
+   
 }
+
+.haer{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.jarmu_also_bal_also_0 {
+    display: flex;
+    align-items: center; 
+    gap: 30%;
+    border-bottom: 3px solid rgb(190, 190, 190);
+}
+
+.jarmu_also_bal_also_0_1 {
+    display: flex;
+    align-items: center; 
+    gap: 25%;
+    border-bottom: 3px solid rgb(190, 190, 190);
+}
+
+.jarmu_also_bal_also_1 {
+    align-items: center;
+    margin-left: 5%;
+    padding: 10px 0px;
+    width: 20%;
+}
+
+.jarmu_also_bal_also_2 {
+    display: flex;
+    align-items: center;
+}
+
 
 .jarmu_tablazat {
     margin-top: 100px;
@@ -267,6 +304,10 @@ p {
     min-width: 150px;
 }
 
+.jobra {
+    margin-left: 15px;
+}
+
 .jobbra {
     text-align: center;
 }
@@ -275,6 +316,6 @@ p {
     text-indent: 10px;
 }
 
-.jarmu_tablazat_fajtak_magassag th{
+.jarmu_tablazat_fajtak_magassag th {
     padding: 2px 10px;
 }
