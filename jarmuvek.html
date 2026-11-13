@@ -191,12 +191,239 @@
         <p style="float: right;">10 járműtípus</p>
         <h1 class="stilo" style="float:left;">Teljes járműpark:</h1>
 
-        <div class="jarmu_tablazat";>
+        <div class="jarmu_tablazat" ;>
 
-            tablazat
-
-
-
+            <div class="border rounded-3 overflow-auto">
+                <table class="table table-striped mb-0 align-middle">
+                    <thead>
+                        <tr>
+                            <th scope="col"></th>
+                            <th scope="col">Jármű neve</th>
+                            <th scope="col">Nemzet</th>
+                            <th scope="col">Gyártási év</th>
+                            <th scope="col" class="jobbra">Aktív</th>
+                            <th scope="col" class="jobbra">Rendelve</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="jarmu_tablazat_fajtak_magassag">
+                            <th class="jarmu_tablazat_fajtak">Harci:</th>
+                            <th></th>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th scope="col"><img class="jarmuvek_tablazat_kepek" src="pngkepek/jas-39-gripen-side.png"
+                                    alt="JAS 39 Gripen"></th>
+                            <th>JAS 39 Gripen</th>
+                            <th>Svédország</th>
+                            <th class="jobbra">1996</th>
+                            <th>
+                                <div class="text-end">17</div>
+                                <div class="progress jarmu_csik">
+                                    <div class="progress-bar" role="progressbar" style="width: 89%;" aria-valuenow="89"
+                                        aria-valuemin="0" aria-valuemax="100" aria-label="Aktív járművek aránya">
+                                    </div>
+                                </div>
+                            </th>
+                            <th class="jobbra">-</th>
+                        </tr>
+                        <tr class="jarmu_tablazat_fajtak_magassag">
+                            <th class="jarmu_tablazat_fajtak">Helikopterek:</th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                        <tr>
+                            <th><img class="jarmuvek_tablazat_kepek" src="topng/h145m.webp" alt=""></th>
+                            <th>H145M / EC645</th>
+                            <th>Franciaország</th>
+                            <th class="jobbra">2002</th>
+                            <th>
+                                <div class="text-end">19</div>
+                                <div class="progress jarmu_csik">
+                                    <div class="progress-bar" role="progressbar" style="width: 100%;"
+                                        aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
+                                        aria-label="Aktív járművek aránya">
+                                    </div>
+                                </div>
+                            </th>
+                            <th class="jobbra">-</th>
+                        </tr>
+                        <tr>
+                            <th><img class="jarmuvek_tablazat_kepek" src="topng/h225m.webp" alt=""></th>
+                            <th>H225M / EC725 Caracal</th>
+                            <th>Német/Francia</th>
+                            <th class="jobbra">2005</th>
+                            <th>
+                                <div class="text-end">16</div>
+                                <div class="progress jarmu_csik">
+                                    <div class="progress-bar" role="progressbar" style="width: 84%;" aria-valuenow="84"
+                                        aria-valuemin="0" aria-valuemax="100" aria-label="Aktív járművek aránya">
+                                    </div>
+                                </div>
+                            </th>
+                            <th class="jobbra">-</th>
+                        </tr>
+                        <tr>
+                            <th><img class="jarmuvek_tablazat_kepek" src="topng/h125m.webp" alt=""></th>
+                            <th>H125M / AS550 Fennec</th>
+                            <th>Franciaország</th>
+                            <th class="jobbra">1990</th>
+                            <th>
+                                <div class="text-end">2</div>
+                                <div class="progress jarmu_csik">
+                                    <div class="progress-bar" role="progressbar" style="width: 10%;" aria-valuenow="10"
+                                        aria-valuemin="0" aria-valuemax="100" aria-label="Aktív járművek aránya">
+                                    </div>
+                                </div>
+                            </th>
+                            <th class="jobbra">-</th>
+                        </tr>
+                        <tr>
+                            <th><img class="jarmuvek_tablazat_kepek" src="topng/mi-24-hind.webp" alt=""></th>
+                            <th>Mi-24 Hind</th>
+                            <th>Szovjetúnió</th>
+                            <th class="jobbra">1972</th>
+                            <th>
+                                <div class="text-end">-</div>
+                                <div class="progress jarmu_csik">
+                                    <div class="progress-bar" role="progressbar" style="width: 0%;" aria-valuenow="0"
+                                        aria-valuemin="0" aria-valuemax="100" aria-label="Aktív járművek aránya">
+                                    </div>
+                                </div>
+                            </th>
+                            <th class="jobbra">-</th>
+                        </tr>
+                        <tr>
+                            <th><img class="jarmuvek_tablazat_kepek" src="topng/mi-8-hip.webp" alt=""></th>
+                            <th>Mi-8 Hip</th>
+                            <th>Szovjetúnió</th>
+                            <th class="jobbra">1967</th>
+                            <th>
+                                <div class="text-end">-</div>
+                                <div class="progress jarmu_csik">
+                                    <div class="progress-bar" role="progressbar" style="width: 0%;" aria-valuenow="0"
+                                        aria-valuemin="0" aria-valuemax="100" aria-label="Aktív járművek aránya">
+                                    </div>
+                                </div>
+                            </th>
+                            <th class="jobbra">-</th>
+                        </tr>
+                        <tr class="jarmu_tablazat_fajtak_magassag">
+                            <th class="jarmu_tablazat_fajtak">Szállítás:</th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                        <tr>
+                            <th><img class="jarmuvek_tablazat_kepek" src="topng/a319-cj.webp" alt=""></th>
+                            <th>Airbus A319 CJ</th>
+                            <th>Európa</th>
+                            <th class="jobbra">1995</th>
+                            <th>
+                                <div class="text-end">2</div>
+                                <div class="progress jarmu_csik">
+                                    <div class="progress-bar" role="progressbar" style="width: 10%;" aria-valuenow="10"
+                                        aria-valuemin="0" aria-valuemax="100" aria-label="Aktív járművek aránya">
+                                    </div>
+                                </div>
+                            </th>
+                            <th class="jobbra">-</th>
+                        </tr>
+                        <tr>
+                            <th><img class="jarmuvek_tablazat_kepek" src="topng/c390-millennium.webp" alt=""></th>
+                            <th>C-390 Millennium</th>
+                            <th>Brazília</th>
+                            <th class="jobbra">2019</th>
+                            <th>
+                                <div class="text-end">2</div>
+                                <div class="progress jarmu_csik">
+                                    <div class="progress-bar" role="progressbar" style="width: 10%;" aria-valuenow="10"
+                                        aria-valuemin="0" aria-valuemax="100" aria-label="Aktív járművek aránya">
+                                    </div>
+                                </div>
+                            </th>
+                            <th class="jobbra">-</th>
+                        </tr>
+                        <tr>
+                            <th><img class="jarmuvek_tablazat_kepek" src="topng/falcon-7x.webp" alt=""></th>
+                            <th>Falcon 7X</th>
+                            <th>Franciaország</th>
+                            <th class="jobbra">2007</th>
+                            <th>
+                                <div class="text-end">2</div>
+                                <div class="progress jarmu_csik">
+                                    <div class="progress-bar" role="progressbar" style="width: 10%;" aria-valuenow="10"
+                                        aria-valuemin="0" aria-valuemax="100" aria-label="Aktív járművek aránya">
+                                    </div>
+                                </div>
+                            </th>
+                            <th class="jobbra">-</th>
+                        </tr>
+                        <tr class="jarmu_tablazat_fajtak_magassag">
+                            <th class="jarmu_tablazat_fajtak">Képzés:</th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                        <tr>
+                            <th><img class="jarmuvek_tablazat_kepek" src="topng/zlin-42.webp" alt=""></th>
+                            <th>Zlin Z 42</th>
+                            <th>Csehország</th>
+                            <th class="jobbra">1970</th>
+                            <th>
+                                <div class="text-end">6</div>
+                                <div class="progress jarmu_csik">
+                                    <div class="progress-bar" role="progressbar" style="width: 31%;" aria-valuenow="31"
+                                        aria-valuemin="0" aria-valuemax="100" aria-label="Aktív járművek aránya">
+                                    </div>
+                                </div>
+                            </th>
+                            <th class="jobbra">-</th>
+                        </tr>
+                        <tr>
+                            <th><img class="jarmuvek_tablazat_kepek" src="topng/l39-albatros.webp" alt=""></th>
+                            <th>L-39 Albatros</th>
+                            <th>Csehország</th>
+                            <th class="jobbra">1972</th>
+                            <th>
+                                <div class="text-end">5</div>
+                                <div class="progress jarmu_csik">
+                                    <div class="progress-bar" role="progressbar" style="width: 26%;" aria-valuenow="26"
+                                        aria-valuemin="0" aria-valuemax="100" aria-label="Aktív járművek aránya">
+                                    </div>
+                                      <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 36%"></div></div>
+                                </div>
+                            </th>
+                            <th class="jobbra">+7</th>
+                        </tr>
+                        <tr>
+                            <th><img class="jarmuvek_tablazat_kepek" src="topng/zlin-43.webp" alt=""></th>
+                            <th>Zlin Z 43</th>
+                            <th>Csehország</th>
+                            <th class="jobbra">1972</th>
+                            <th>
+                                <div class="text-end">2</div>
+                                <div class="progress jarmu_csik">
+                                    <div class="progress-bar" role="progressbar" style="width: 10%;" aria-valuenow="10"
+                                        aria-valuemin="0" aria-valuemax="100" aria-label="Aktív járművek aránya">
+                                    </div>
+                                </div>
+                            </th>
+                            <th class="jobbra">-</th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
 
         </div>
         <hr>
